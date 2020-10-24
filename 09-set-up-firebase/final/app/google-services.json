@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492266100140",
+    "firebase_url": "https://color-quotes-8622a.firebaseio.com",
+    "project_id": "color-quotes-8622a",
+    "storage_bucket": "color-quotes-8622a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492266100140:android:73ab2426456e66206e5609",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.colorquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492266100140-cut9v7m5ktvlrqvj595vpatclg9g0nqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNOMUTYa9DMqK6EcOxQspJh_2SOPacIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492266100140-cut9v7m5ktvlrqvj595vpatclg9g0nqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
